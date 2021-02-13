@@ -1,22 +1,22 @@
 {
-    "mongo_url": "",
+    "mongo_url": "mongodb+srv://deathkiller12234:187Ryan!1@modmail.nkyro.mongodb.net/ModMial?retryWrites=true&w=majority",
     "server": {
-        "id": "",
-        "invite": "",
-        "mod_log_id": "",
-        "like_log": "",
-        "admin_user_ids": [],
+        "id": "805606114724675585",
+        "invite": "https://discord.gg/WyVgBSHdEk",
+        "mod_log_id": "809965365614215170",
+        "like_log": "809965422178074634",
+        "admin_user_ids": [805606282093527041, 805606281602662461],
         "role_ids": {
-            "bot": "",
-            "unverified": "",
-            "verified": "",
+            "bot": "805606283297161226",
+            "unverified": "805606284678266960",
+            "verified": "805606284115968031",
 
-            "bot_developer": "",
-            "bot_verifier": ""
+            "bot_developer": "805606284115968031    ",
+            "bot_verifier": "805606283017191435"
         }
     },
     "bot_options": {
-        "bot_tags": [],
+        "bot_tags": [fun, Moderation, Multi-function],
         "max_bot_tags": 6,
         "max_owners_count": 4,
         "max_summary_length": 120,
@@ -24,13 +24,13 @@
         "max_description_length": 500
     },
     "discord_client": {
-        "id": "",
-        "secret": "",
-        "token": "",
-        "prefix": ""
+        "id": "637771759050817546",
+        "secret": "vVJm7XZ79NKhXh8Y_hHBGGRQ_JRIxqCn",
+        "token": "NjM3NzcxNzU5MDUwODE3NTQ2.XbTBPA.E2SHuxx0UrEhFqce_stx4jXAgOI",
+        "prefix": "!"
     },
     "web": {
-        "domain_with_protocol": "",
+        "domain_with_protocol": "https://encyrptedbots.herokuapp.com",
         "port": 80,
         "ratelimit": 30,
         "recaptcha_v2": {
